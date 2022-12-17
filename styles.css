@@ -1,0 +1,39 @@
+*{
+    background-color:rgb(255, 131, 152);
+}
+h1{
+    color:red;
+}
+#h1header{
+    color:blue;
+}
+.header1{
+    color:green;
+}
+#h3header{
+    color:rgb(252, 16, 126);
+}
+.header2{
+    color:rgb(253, 145, 13)
+}
+.buttonsection{
+    background-color:black;
+}
+.marvel,.DC{
+    color:rgb(10, 10, 10);
+    background-color:green ;
+    width:200px;
+    padding:20px;
+    margin:20px;
+    border:5px solid;
+    border-color:blue; 
+    border-radius:25px;
+    opacity:0.5;
+
+
+}
+.DC:hover{
+    color:red;
+    opacity:0.5;
+
+}
